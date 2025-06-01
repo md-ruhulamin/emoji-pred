@@ -1,4 +1,4 @@
 def get_emoji():
-    print("EMoji")
+    print("Emoji")
     
 get_emoji()
